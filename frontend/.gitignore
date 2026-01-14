@@ -1,0 +1,31 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Data & outputs
+*.csv
+*.npy
+*.pkl
+*.png
+*.jpg
+*.jpeg
+*.svg
