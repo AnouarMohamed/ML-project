@@ -1,12 +1,15 @@
-# ML-Playground: Interactive Machine Learning Visualizer
+<img width="1915" height="919" alt="image" src="https://github.com/user-attachments/assets/0283924f-53fa-4c61-a503-4fabe854e6fd" /># ML-Playground: Interactive Machine Learning Visualizer
 
 ## 🚀 Project Overview
 
 ML-Playground is an interactive web application that visualizes machine learning algorithms in real-time. Designed for educators, students, and researchers, it transforms abstract ML concepts into tangible visual experiences through an intuitive interface.
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=ML-Playground+Interface+Screenshot" alt="ML-Playground Interface" width="800">
+<img width="269" height="51" alt="image" src="https://github.com/user-attachments/assets/6c17dd37-e48e-4335-a987-3d15b6def146" />
+
   <br>
+ 
+  
   <em>Interactive visualization of decision boundaries and data points</em>
 </div>
 
@@ -339,24 +342,38 @@ services:
 <div align="center">
 
 ### Main Interface
-![Main Interface](docs/screenshots/main-interface.png)
+<img width="1904" height="914" alt="image" src="https://github.com/user-attachments/assets/6eecd02d-5f5f-420f-84a1-ea5b263a1cd0" />
+<img width="1915" height="919" alt="image" src="https://github.com/user-attachments/assets/1ea634c4-17c7-4bab-84e6-77077bf377c3" />
+<img width="1898" height="437" alt="image" src="https://github.com/user-attachments/assets/81ed2f08-c560-4423-9628-0fa249ee0442" />
+
+
+
 
 *Caption: The main dashboard showing algorithm selection and visualization canvas*
 
 ### Regression Visualization
-![Regression](docs/screenshots/regression-viz.png)
+<img width="1166" height="858" alt="image" src="https://github.com/user-attachments/assets/0aac3f3a-b12d-4c28-9553-1d1ed53faec4" />
+<img width="1268" height="814" alt="image" src="https://github.com/user-attachments/assets/39b8cef4-8a19-4804-80c6-0eb91380f795" />
+
+
 
 *Caption: Polynomial regression with gradient descent animation*
 
 ### Neural Network Architecture
-![Neural Network](docs/screenshots/neural-network.png)
+<img width="1201" height="872" alt="image" src="https://github.com/user-attachments/assets/90ed9ade-1e55-46f6-8250-5225321a4961" />
+<img width="1314" height="589" alt="image" src="https://github.com/user-attachments/assets/605240ec-569c-483c-a54b-35f88b594b7e" />
+
+
 
 *Caption: Interactive neural network with layer visualization*
 
-### Clustering Results
-![Clustering](docs/screenshots/clustering-viz.png)
+### PCA
+<img width="1228" height="868" alt="image" src="https://github.com/user-attachments/assets/e120d248-eeba-4c1e-8cff-fe4233ea34c1" />
+<img width="1371" height="868" alt="image" src="https://github.com/user-attachments/assets/419c9404-3e8a-4ed1-8d73-e8a19376b71c" />
 
-*Caption: K-Means clustering with centroid movement*
+
+
+
 
 </div>
 
@@ -462,6 +479,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <em>Visualizing the Future of Machine Learning</em><br>
   <br>
   <a href="https://github.com/AnouarMohamed/ML-Playground">GitHub</a> •
-  <a href="https://ml-playground.demo">Live Demo</a> •
-  <a href="https://docs.ml-playground.dev">Documentation</a>
 </div>
