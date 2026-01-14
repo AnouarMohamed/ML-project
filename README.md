@@ -1,4 +1,3 @@
-<img width="1915" height="919" alt="image" src="https://github.com/user-attachments/assets/0283924f-53fa-4c61-a503-4fabe854e6fd" /># ML-Playground: Interactive Machine Learning Visualizer
 
 ## 🚀 Project Overview
 
