@@ -15,7 +15,7 @@ import Docs from './pages/Docs';
 function App() {
   useEffect(() => {
     // Set the page title
-    document.title = "Gherbaz";
+    document.title = "ML-playground";
 
     // Set the favicon
     const link = document.querySelector("link[rel~='icon']");

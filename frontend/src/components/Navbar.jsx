@@ -19,7 +19,7 @@ function Navbar() {
             <path d="M2 23L16 30L30 23V9L16 16L2 9V23Z" fill="#3b82f6" fillOpacity="0.5"/>
             <path d="M16 16V30M2 9V23M30 9V23" stroke="#1e293b" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
           </svg>
-          <span className="logo-text" style={{ color: '#f8fafc', marginLeft: '12px' }}>Gherbaz</span>
+          <span className="logo-text" style={{ color: '#f8fafc', marginLeft: '12px' }}>ML-playground</span>
         </Link>
       </div>
     </motion.nav>
